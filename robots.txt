@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-896kbz.shiokambing12ful.lat/sitemap.xml
